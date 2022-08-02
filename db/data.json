@@ -1,27 +1,27 @@
 [
   {
-    "id": "8f5df365-0841-49c3-bf1c-3b9a368d789c",
-    "desc": "Recolectar las piedras.",
-    "completadoEn": null
+    "id": "194684fc-fe76-477e-b9a3-5d8b521d0104",
+    "desc": "Recolectar piedras",
+    "completadoEn": "2022-08-02T01:04:03.640Z"
   },
   {
-    "id": "f9bcadd6-aa03-45c8-b7db-19fafa740c0d",
+    "id": "edfdf6e9-d290-4f8d-a01f-62bfa5f5df17",
+    "desc": "Tiempo",
+    "completadoEn": "2022-08-02T01:04:03.640Z"
+  },
+  {
+    "id": "cdbb095d-0302-4e03-aeaa-f30b93dfe2e1",
     "desc": "Alma",
     "completadoEn": null
   },
   {
-    "id": "c315198e-2080-427c-9ec0-9dd87abd7883",
+    "id": "bae3ea1f-aca5-42d8-8624-7f02b01e0ac8",
     "desc": "Poder",
-    "completadoEn": null
+    "completadoEn": "2022-08-02T01:04:03.640Z"
   },
   {
-    "id": "27878379-e1b1-4a4e-b970-54ee48a55449",
+    "id": "42e6e086-a33d-476e-892e-1770bdbf4481",
     "desc": "Realidad",
-    "completadoEn": null
-  },
-  {
-    "id": "aa78329e-82da-4c8f-970d-d392b976ae81",
-    "desc": "Tiempo",
-    "completadoEn": null
+    "completadoEn": "2022-08-02T01:04:03.640Z"
   }
 ]
